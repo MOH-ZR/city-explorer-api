@@ -14,6 +14,7 @@ The application built using Node.js and JavaScript.
 
 ## Change Log
 03-04-2021 4:02pm - Application now has a fully-functional express serve.
+03-04-2021 9:26pm - Added routes the location and weather resources.
 
 ## Credits and Collaborations
 * [codefellows Academy](https://www.codefellows.org/)
@@ -23,13 +24,51 @@ The application built using Node.js and JavaScript.
 ## Time Estimate
 
 ```
-Number and name of feature:
+Number and name of feature: feature#1 - repository set up
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 15 minutes
+ 
+Start time: (6:10 p)
 
-Start time:
+Finish time: (6:30 p)
 
-Finish time:
+Actual time needed to complete: 20 minutes
+```
 
-Actual time needed to complete:
+```
+Number and name of feature: feature#2 - location
+
+Estimate of time needed to complete: 30 minutes
+ 
+Start time: (6:35 p)
+
+Finish time: (7:10 p)
+
+Actual time needed to complete: 35 minutes
+```
+
+
+```
+Number and name of feature: feature#3 - weather
+
+Estimate of time needed to complete: 30 minutes
+ 
+Start time: (7:15 p)
+
+Finish time: (7:50 p)
+
+Actual time needed to complete: 40 minutes
+```
+
+
+```
+Number and name of feature: feature#1 - errors
+
+Estimate of time needed to complete: 20 minutes
+ 
+Start time: (8:00 p)
+
+Finish time: (8:15 p)
+
+Actual time needed to complete: 15 minutes
 ```
