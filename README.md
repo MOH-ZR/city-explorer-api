@@ -14,6 +14,7 @@ The application built using Node.js and JavaScript.
 
 ## Change Log
 03-04-2021 4:02pm - Application now has a fully-functional express serve.
+04-04-2021 3:08am - connect the server API with a database
 
 ## Credits and Collaborations
 * [codefellows Academy](https://www.codefellows.org/)
@@ -23,13 +24,25 @@ The application built using Node.js and JavaScript.
 ## Time Estimate
 
 ```
-Number and name of feature: 
+Number and name of feature: featuer#1 - database
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 30 minutes
  
-Start time: 
+Start time: (2:10 a)
 
-Finish time: 
+Finish time: (3:00 a)
 
-Actual time needed to complete: 
+Actual time needed to complete: 50 minutes 
+```
+
+```
+Number and name of feature: featuer#2 - server
+
+Estimate of time needed to complete: 30 minutes
+ 
+Start time: (3:00 a)
+
+Finish time: (3:33 a)
+
+Actual time needed to complete: 33 minutes 
 ```
