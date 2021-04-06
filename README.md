@@ -14,6 +14,7 @@ The application built using Node.js and JavaScript.
 
 ## Change Log
 03-04-2021 4:02pm - Application now has a fully-functional express serve.
+04-04-2021 3:08am - connect the server API with a database
 
 ## Credits and Collaborations
 * [codefellows Academy](https://www.codefellows.org/)
@@ -25,11 +26,11 @@ The application built using Node.js and JavaScript.
 ```
 Number and name of feature: 
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete:
  
-Start time: 
+Start time:
 
-Finish time: 
+Finish time:
 
 Actual time needed to complete: 
 ```
