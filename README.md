@@ -24,49 +24,13 @@ The application built using Node.js and JavaScript.
 ## Time Estimate
 
 ```
-Number and name of feature: featuer#1 - database
+Number and name of feature: 
 
-Estimate of time needed to complete: 30 minutes
+Estimate of time needed to complete:
  
-Start time: (2:10 a)
+Start time:
 
-Finish time: (3:00 a)
+Finish time:
 
-Actual time needed to complete: 50 minutes 
-```
-
-```
-Number and name of feature: featuer#2 - server
-
-Estimate of time needed to complete: 30 minutes
- 
-Start time: (3:00 a)
-
-Finish time: (3:33 a)
-
-Actual time needed to complete: 33 minutes 
-```
-
-```
-Number and name of feature: featuer#3 - deploy
-
-Estimate of time needed to complete: 5 minutes
- 
-Start time: (3:40 a)
-
-Finish time: (3:44 a)
-
-Actual time needed to complete: 4 minutes 
-```
-
-```
-Number and name of feature: featuer#4 - strach
-
-Estimate of time needed to complete: 30 minutes
- 
-Start time: (3:45 a)
-
-Finish time: (4:30 a)
-
-Actual time needed to complete: 45 minutes 
+Actual time needed to complete: 
 ```
